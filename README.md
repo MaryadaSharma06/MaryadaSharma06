@@ -32,18 +32,28 @@
 </div>
 
 ---
+<table>
+<tr>
 
-# 👩‍💻 About Me
+<td width="55%">
 
-- 🎓 B.Tech Computer Science & Engineering student at **BML Munjal University**
-- 💻 Full Stack Developer passionate about building scalable web applications
-- 🤖 AI Enthusiast with experience integrating LLMs into real-world applications
-- 🎨 UI/UX Designer with hands-on experience using Figma
-- 🌱 Passionate about solving real-world problems through technology
-- 🚀 Open to Software Development, Full Stack and AI opportunities
+## About Me
 
----
+- Full Stack Developer
+- AI Enthusiast
+- Open Source Contributor
+- Building AI-powered applications
 
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+
+</td>
+
+</tr>
+</table>
 # 🚀 Tech Stack
 
 ### Languages
