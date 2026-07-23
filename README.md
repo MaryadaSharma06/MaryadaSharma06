@@ -163,13 +163,14 @@
 
 </table>
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaryadaSharma06&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaryadaSharma06&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=MaryadaSharma06&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryadaSharma06&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <br>
@@ -193,14 +194,6 @@
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=MaryadaSharma06&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=MaryadaSharma06&label=Profile+Views&color=6C63FF&style=for-the-badge)
 
 </div>
 
