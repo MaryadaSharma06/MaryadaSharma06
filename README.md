@@ -7,6 +7,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Building+Scalable+Web+Applications;Machine+Learning+%26+Generative+AI;Always+Learning+and+Building" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500"/>
+</div>
+
 ---
 
 ## 🌐 Connect with Me
@@ -201,6 +205,17 @@
 
 </div>
 
+## Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MaryadaSharma06/MaryadaSharma06/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MaryadaSharma06&style=for-the-badge&color=6C63FF"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
 ### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
