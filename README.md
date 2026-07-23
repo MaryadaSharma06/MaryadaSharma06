@@ -92,27 +92,62 @@
 </p>
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-### 🌿 Plant Disease Detection
-Deep Learning-based web application to identify plant diseases using CNN & VGG16.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 📚 StudyScribe – AI Smart Study Assistant
+**Tech Stack:** React.js • Node.js • Express.js • Groq API • Hugging Face Whisper • Axios • Multer • gTTS
 
-### 👗 IRIS - AI Wardrobe Manager
-AI-powered wardrobe management system that recommends outfits and clothing combinations.
+- 🤖 AI-powered platform for generating notes, summaries, quizzes, and flashcards.
+- 📝 Processes PDFs, PPTs, and audio files for intelligent study assistance.
+- 🎤 Supports speech-to-text using Hugging Face Whisper.
+- 🔗 Built secure REST APIs and integrated Groq LLM for AI-powered learning.
 
----
+</td>
 
-### 🚦 Intelligent Traffic Light Optimization
-Traffic optimization system using YOLO, Reinforcement Learning and AI reasoning.
+<td width="50%" valign="top">
 
----
+### 🌿 Plant Disease Detection AI
+**Tech Stack:** Python • Flask • TensorFlow • CNN • VGG16 • Vision Transformer • Groq API • Google Gemini • HTML • CSS • JavaScript
 
-### 🗺️ Zephyr Campus Navigation
-Campus navigation website designed using Figma and developed with HTML, CSS and JavaScript.
+- 🌱 Detects **38 plant diseases** using Deep Learning models.
+- 📊 Compared CNN, VGG16, and Vision Transformer architectures.
+- 💊 Integrated an AI assistant to provide disease analysis, treatment, and prevention.
+- 🚀 Achieved **~99% validation accuracy** using VGG16 Transfer Learning.
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Medify – Domain-Adaptive Medical Question Answering
+**Tech Stack:** Python • Mistral-7B • PEFT • LoRA • RAG • FAISS • Hugging Face • Sentence Transformers
+
+- 🤖 Built an intelligent medical question-answering system using Large Language Models.
+- 🧠 Fine-tuned **Mistral-7B** with **LoRA (PEFT)** on the **MedQuAD** dataset.
+- 🔍 Integrated **Retrieval-Augmented Generation (RAG)** with FAISS for fact-grounded responses.
+- ⚡ Designed the **Context-Aware Reasoning Architecture (CARA)** to improve response reliability and consistency.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗺️ Zephyr – Campus Navigation System
+**Tech Stack:** HTML • CSS • JavaScript • Google Maps API
+
+- 📍 Interactive campus navigation platform for students and visitors.
+- 🧭 Integrated Google Maps API for route planning and location search.
+- 🎨 Designed a responsive and intuitive user interface.
+- 🌐 Simplifies navigation across the university campus.
+
+</td>
+</tr>
+
+</table>
 
 # 📈 GitHub Analytics
 
