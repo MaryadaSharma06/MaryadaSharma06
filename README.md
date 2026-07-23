@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=280&section=header&text=Maryada%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20|%20Aspiring%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=280&section=header&text=Maryada%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Java+%7C+DSA+Enthusiast;Learning+React+%26+Full+Stack+Development;AI+%26+Machine+Learning+Projects;Always+Learning+Something+New!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Building+Scalable+Web+Applications;Machine+Learning+%26+Generative+AI;Always+Learning+and+Building" />
 </div>
 
 ---
