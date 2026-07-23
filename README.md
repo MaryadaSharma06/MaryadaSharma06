@@ -72,7 +72,7 @@
 - Hugging Face Whisper
 </p>
 
-###Databases & APIs
+### Databases & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
@@ -83,7 +83,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio" />
 </p>
 
-###Core Concepts
+### Core Concepts
 <p>
   - Data Structures & Algorithms
 - Object-Oriented Programming
