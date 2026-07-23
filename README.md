@@ -138,7 +138,7 @@ Campus navigation website designed using Figma and developed with HTML, CSS and 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaryadaSharma06&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
