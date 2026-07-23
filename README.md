@@ -205,17 +205,6 @@
 
 </div>
 
-## Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/MaryadaSharma06/MaryadaSharma06/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=MaryadaSharma06&style=for-the-badge&color=6C63FF"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
 ### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
