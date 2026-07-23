@@ -35,12 +35,12 @@
 
 # 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science student at **BML Munjal University**
-- 💻 Currently learning **React, MERN Stack & Advanced JavaScript**
-- 📚 Practicing **Data Structures & Algorithms** on LeetCode
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 🎨 UI/UX Designer using **Figma**
-- 🌱 Always exploring new technologies and building projects
+- 🎓 B.Tech Computer Science & Engineering student at **BML Munjal University**
+- 💻 Full Stack Developer passionate about building scalable web applications
+- 🤖 AI Enthusiast with experience integrating LLMs into real-world applications
+- 🎨 UI/UX Designer with hands-on experience using Figma
+- 🌱 Passionate about solving real-world problems through technology
+- 🚀 Open to Software Development, Full Stack and AI opportunities
 
 ---
 
@@ -49,27 +49,47 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,c,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
 
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+### AI/ ML
+<p>
+- TensorFlow
+- CNNs
+- Groq API (Llama 3.1)
+- Hugging Face Whisper
+</p>
+
+###Databases & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio" />
 </p>
 
+###Core Concepts
+<p>
+  - Data Structures & Algorithms
+- Object-Oriented Programming
+- Full Stack Development
+- Database Management Systems
+</p>
 ---
 
 # 📂 Featured Projects
@@ -121,16 +141,6 @@ Campus navigation website designed using Figma and developed with HTML, CSS and 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-# 💡 Current Goals
-
-- ✅ Master Data Structures & Algorithms
-- ✅ Become a MERN Stack Developer
-- ✅ Build AI-powered Web Applications
-- ✅ Contribute to Open Source
-- ✅ Crack a Software Development Internship
 
 ---
 
