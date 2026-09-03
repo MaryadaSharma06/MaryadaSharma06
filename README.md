@@ -7,9 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Building+Scalable+Web+Applications;Machine+Learning+%26+Generative+AI;Always+Learning+and+Building" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500"/>
-</div>
+
 
 ---
 
